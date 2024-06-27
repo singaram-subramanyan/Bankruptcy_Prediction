@@ -1,4 +1,4 @@
-# Bankruptcy_Prediction
+# Bankruptcy Prediction
 
 # Project Title:
 Bankruptcy Prediction
@@ -11,7 +11,7 @@ We intend to work on a Machine Learning Classification project to predict a cert
 
 # Functionality: 
 The solution will be using data analysis to identify patterns to train an informed machine learning model trained on a dataset from kaggle that would predict the bankruptcy status of the company. We also intend to use techniques such as feature engineering and hyperparameter tuning to improve the overall performance of the machine-learning model.
-#Application:
+# Application:
 Data Analysis/Machine Learning
 # Description of solution:
 We will be conducting exploratory data analysis on the dataset found to understand the dataset, and discover any patterns and correlations between the targets (financials) and label (bankrupt) of the dataset. Once we conduct the exploratory data analysis to identify any patterns that may exist in the data, we will create, train, and tune a machine-learning model to predict the bankruptcy status of the company.
